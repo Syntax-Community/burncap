@@ -34,15 +34,15 @@ Supported captive templates:
 
 # PINOUT
 
-| PIN  | VSPI | HSPI | OLED |
-|------|------|------|------|
-| SCK  | -    | GPIO27 | - |
-| MOSI | -    | GPIO13 | - |
-| MISO | -    | GPIO12 | - |
-| CS   | -    | GPIO15 | - |
-| CE   | -    | GPIO14 | - |
-| SDA  | -    | - | GPIO21 |
-| SCL  | -    | - | GPIO22 |
+|  PIN  |  VSPI  |  HSPI  |  OLED  |
+|-------|--------|--------|--------|
+|  SCK  | GPIO18 | GPIO27 | -      |
+|  MOSI | GPIO23 | GPIO13 | -      |
+|  MISO | GPIO19 | GPIO12 | -      |
+|  CS   | GPIO5  | GPIO15 | -      |
+|  CE   | GPIO4  | GPIO14 | -      |
+|  SDA  | -      | -      | GPIO21 |
+|  SCL  | -      | -      | GPIO22 |
 
 --------------------------------------------------
 
