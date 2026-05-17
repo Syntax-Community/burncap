@@ -48,4 +48,4 @@ Supported captive templates:
 
 # PRICE
 
-Rp.25.000 | Launching price — **don't miss out**
+Rp.30.000 | Launching price — **don't miss out**
